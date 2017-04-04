@@ -1,0 +1,10 @@
+{
+  "name": "ng-sync-click",
+  "description": "This module will help you to control unnecessary api calls on click.",
+  "main": "ngSyncClick.js",
+  "authors": [
+    "Narottam Dattatria"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dattatrey93/ngSyncClick"
+}
