@@ -2,7 +2,7 @@
   "name": "ng-sync-click",
   "version": "0.0.1",
   "description": "This module will help you to control unnecessary api calls on click.",
-  "main": "ngSyncClick.js",
+  "main": "angular-sync-click.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/dattatrey93/ngSyncClick.git"
   },
-  "author": "Narottam Dattatria <narottamdattatria@gmail.com",
+  "author": "Narottam Dattatria <narottamdattatria@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dattatrey93/ngSyncClick/issues"
