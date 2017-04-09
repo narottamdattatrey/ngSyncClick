@@ -1,6 +1,6 @@
 {
   "name": "ng-sync-click",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "This module will help you to control unnecessary api calls on click.",
   "main": "angular-sync-click.js",
   "scripts": {
